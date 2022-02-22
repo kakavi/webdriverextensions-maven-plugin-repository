@@ -1,5 +1,12 @@
 {
     "drivers": [
+        {
+            "name": "chromedriver",
+            "platform": "mac",
+            "bit": "64",
+            "version": "98.0.4758.102",
+            "url": "https://chromedriver.storage.googleapis.com/98.0.4758.102/chromedriver_mac64.zip"
+        },
          {
             "name": "chromedriver",
             "platform": "windows",
